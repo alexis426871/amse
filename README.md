@@ -1,4 +1,12 @@
 # Library
+Pour utiliser le projet :
 
-TP1 in `my_flutter_hello_app`
+Faire 'git clone https://github.com/alexis426871/amse.git'
+
+Se mettre à la racine du projet :
+
+Puis faire : 
+
+'run flutter ./lib/TP1.dart'
+
 
